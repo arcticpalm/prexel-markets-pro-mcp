@@ -1,0 +1,13 @@
+{
+  "name": "prexel-markets-pro",
+  "version": "1.0.0",
+  "description": "Read live Bitcoin research and inspect captured signal and domain evidence.",
+  "author": {
+    "name": "Prexel",
+    "email": "mcp@prexel.xyz"
+  },
+  "homepage": "https://prexel.xyz/mcp/",
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json",
+  "license": "MIT"
+}
